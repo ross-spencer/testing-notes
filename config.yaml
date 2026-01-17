@@ -81,6 +81,17 @@ episodes:
 - 010-teaching-us-how.md
 - 011-advanced.md
 - 012-final-thoughts.md
+- 051-ff-structures.md
+- 052-container-formats.md
+- 053-ms-word.md
+- 054-binary-signatures-recap.md
+- 055-binary-identification-pronom.md
+- 056-xml-primer.md
+- 057-container-identfication.md
+- 058-creating-a-container-xml.md
+- 059-finding-sample-formats.md
+- 060-testing-signatures.md
+- 061-wrapping-up.md
 
 # Information for Learners. The pages here will land in the introductory
 # sections.
