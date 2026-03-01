@@ -16,29 +16,50 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-# Testing signatures {#testing-signatures}
+# Testing signatures
 
 We want to identify **false-positives** and **collisions**.
 
-The Skeleton Suite Homepage:
+* False-positives are files that are identifying incorrectly using the
+signature.
+* False-positives are resolved through careful testing of signatures against
+existing patterns using tools like the skeleton suite (below).
+*  Collisions are a subset because they might occur because they are a subset
+of a file format, e.g. SVG might collide with XML
+* Collisions are resolved through a directive in PRONOM to give piriority of one
+format over the other. The ideal - one format identificaiton per file, i.e.
+no multiple identification.
 
-Builder: Current Skeleton’s, Maintained by Richard Lehane
+
+## Skeleton suite
+
+The skeleton suite can help us to do this.
+
+The skeleton suite is ...
+
+
+> info box:
+
+Builder: Current Skeletons, Maintained by Richard Lehane
 
 * Updated when a new PRONOM is released
 * Contains standard and container skeleton samples.
 
+> https://github.com/richardlehane/builder
+
+
+![Social media preview of Richard Lehane's GitHub repository github.com/richardlehane/builder](../images/builder-1.png)
+
+
+> info box:
+
 [https://github.com/exponential-decay/skeleton-test-suite-generator](https://github.com/exponential-decay/skeleton-test-suite-generator)
-![Social media preview of Richard Lehane's GitHub repository github.com/richardlehane/builder][image31]
-—-
-![Screenshot showing many different file icons against a dark background. The Skeleton Suite provides the opportunity to make this screenshot as it represents all the files in the PRONOM corpus.][image32]
-—-
 
 
+
+![Screenshot showing many different file icons against a dark background. The Skeleton Suite provides the opportunity to make this screenshot as it represents all the files in the PRONOM corpus.](../images/skeleton-1.png)
 
 ::::::::::::::::::::::::::::::::::::: keypoints
-
-By the end of this workshop, you should be able to:
 
 * TODO...
 

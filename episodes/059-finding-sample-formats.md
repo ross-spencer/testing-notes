@@ -16,7 +16,6 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 # Finding Format Examples {#finding-format-examples}
 
 The more Samples you can find, the more precise the signatures can be.
@@ -33,9 +32,15 @@ File format examples can can found on:
 Tyler’s format finding guide\! [https://github.com/thorsted/fileformat](https://github.com/thorsted/fileformat)
 
 
-::::::::::::::::::::::::::::::::::::: keypoints
+Specifications for file formats don’t always exist or are accessible. Having
+many samples of a file format can help distinguish which parts of the format
+have consistent patterns, help you determine version bytes, find outliers or
+other variants, and provide data to test other signatures against in the
+future. Making your own samples is helpful in knowing versioning and other
+properties of the file format.
 
-By the end of this workshop, you should be able to:
+
+::::::::::::::::::::::::::::::::::::: keypoints
 
 * TODO...
 
