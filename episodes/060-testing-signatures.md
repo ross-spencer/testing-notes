@@ -30,13 +30,11 @@ of a file format, e.g. SVG might collide with XML
 format over the other. The ideal - one format identificaiton per file, i.e.
 no multiple identification.
 
-
 ## Skeleton suite
 
 The skeleton suite can help us to do this.
 
 The skeleton suite is ...
-
 
 > info box:
 
@@ -48,16 +46,17 @@ Builder: Current Skeletons, Maintained by Richard Lehane
 > https://github.com/richardlehane/builder
 
 
-![Social media preview of Richard Lehane's GitHub repository github.com/richardlehane/builder](../images/builder-1.png)
-
+![Social media preview of Richard Lehane's GitHub repository
+github.com/richardlehane/builder](../images/builder-1.png)
 
 > info box:
 
 [https://github.com/exponential-decay/skeleton-test-suite-generator](https://github.com/exponential-decay/skeleton-test-suite-generator)
 
-
-
-![Screenshot showing many different file icons against a dark background. The Skeleton Suite provides the opportunity to make this screenshot as it represents all the files in the PRONOM corpus.](../images/skeleton-1.png)
+![Screenshot showing many different file icons against
+a dark background. The Skeleton Suite provides the opportunity
+to make this screenshot as it represents all the files
+in the PRONOM corpus.](../images/skeleton-1.png)
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 

@@ -39,7 +39,6 @@ other variants, and provide data to test other signatures against in the
 future. Making your own samples is helpful in knowing versioning and other
 properties of the file format.
 
-
 ::::::::::::::::::::::::::::::::::::: keypoints
 
 * TODO...

@@ -16,42 +16,47 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Microsoft Word DOCX Format
 
-# Microsoft Word DOCX Format {#microsoft-word-docx-format}
-
-*  Structurally follows the Office Open XML standard \- ISO/IEC 29500, ECMA-376
-
+*  Structurally follows the Office Open XML standard \- ISO/IEC
+29500, ECMA-376
 *  Is a **Zip** file, containing mostly **XML** files
-
-*  XML files define the structure of the document, along with any textual and formatting elements
-
-*  XML files also control the **meta-structure**, describing where other file elements can be found within the zip
-
+*  XML files define the structure of the document, along with any
+textual and formatting elements
+*  XML files also control the **meta-structure**, describing where other
+file elements can be found within the zip
 *  Embedded objects (such as images) are stored in full
-
-*  Can be unpacked or explored with a tool such as 7zip, or through Windows Explorer after changing the file extension to .zip
-
+*  Can be unpacked or explored with a tool such as 7zip, or through Windows
+Explorer after changing the file extension to .zip
 *  May also contain a thumbnail image of the rendered document
 
-—-
+## The Microsoft Word DOCX Format
 
-The Microsoft Word DOCX Format
-![A screenshot of the 7zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the media directory, demonstrating how images and other embedded multimedia elements are stored within the container][image21]![A screenshot of the 7zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the root of the zip container, which has the \[Content\_Types\].xml used for identification purposes][image22]
-—-
-The Microsoft Word DOCX Format
-![A screenshot showing an extract of the document.xml file stored within a Microsoft Word DOCX document. This image demonstrates how textual content of a DOCX document is stored and formatted][image23]
-—-
-Task
-Explore a Word, Excel, or PowerPoint document and discuss what you see and any interesting findings with your peers.
+![A screenshot of the 7zip application demonstrating the internal
+structure of a Microsoft Word DOCX document. This image shows the
+media directory, demonstrating how images and other embedded
+multimedia elements are stored within
+the container](../images/docx-structure-1.png)
 
-*\> The container can be accessed by using a tool such as 7-zip to unpack the contents, or by changing the file extension to .zip,*
+![A screenshot of the 7zip application demonstrating the internal
+structure of a Microsoft Word DOCX document. This image shows the root
+of the zip container, which has the \[Content\_Types\].xml used for
+identification purposes](../images/docx-structure-2.png)
+
+![A screenshot showing an extract of the document.xml file stored
+within a Microsoft Word DOCX document. This image demonstrates how
+textual content of a DOCX document is stored
+and formatted](../images/docx-structure-3.png)
+
+## Task: Exploring a Container Format
+
+Explore a Word, Excel, or PowerPoint document and discuss what you see
+and any interesting findings with your peers.
+
+> The container can be accessed by using a tool such as 7-zip to unpack
+the contents, or by changing the file extension to .zip,*
 
 [www.menti.com](http://www.menti.com) 5136 8099
-
-Exploring a Container Format
-
-
-
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 

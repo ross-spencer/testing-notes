@@ -44,7 +44,10 @@ NB. see the try-it section of ffdev.info...
 * ... denotes ... Hidden Folder
 
 20 mins
-![Screenshot of the droid6 folder showing locations for the container signatures and regular signature files.](../images/droid6-folder-1.png)
+
+![Screenshot of the droid6 folder showing locations for the
+container signatures and regular
+signature files.](../images/droid6-folder-1.png)
 
 
 
