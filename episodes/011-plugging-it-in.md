@@ -17,6 +17,8 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+<!-- TODO: check this page is tailored to container signatures -->
+
 ## Plugging it in -- the easy way!
 
 Once you have created a signature file you will want to plug it into your

@@ -75,6 +75,14 @@ Use hex editor you have installed, or one online one, such as:
 
 [www.menti.com](http://www.menti.com) 5136 8099
 
+<!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
+     it looks like it's better with an additional newline so adding that
+     here and using this comment as a separator to make it easy to read
+     content.
+-->
+
+<br>
+
 ::::::::::::::::::::::::::::::::::::: keypoints
 
 By the end of this workshop, you should be able to:

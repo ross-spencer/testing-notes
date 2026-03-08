@@ -19,7 +19,7 @@ Ross Spencer \- Independent researcher/developer.
 Tyler Thorsted \- Brigham Young University
 
 
-# What will we be doing? {#what-will-we-be-doing?}
+# What will we be doing?
 
 * Introduction (10 Minutes)
 * File Format Structures (20 Minutes)
@@ -31,9 +31,6 @@ Tyler Thorsted \- Brigham Young University
 * Q\&A (10 Minutes)
 * Final Topics (10 Minutes)
 
-
-—-
-
 ## What tools will we be using? {#what-tools-will-we-be-using?}
 
 * Menti- an interactive audience participation software (you may want to use a phone or laptop to login)
@@ -41,8 +38,6 @@ Tyler Thorsted \- Brigham Young University
 * Hex Editor (this can be in a browser if you don’t have one pre-installed)
 * 7-Zip / Built in zip tools
 * You will also be creating files using your office suite
-
-—-
 
 ## Form groups {#form-groups}
 
@@ -57,9 +52,9 @@ Tyler Thorsted \- Brigham Young University
 
 Mentimeter
 
-![QR code linking to a website (the link is displayed next to it in text)][image7][www.menti.com](http://www.menti.com) 5136 8099
+![QR code linking to a website (the link is displayed next to it in text)][image7]
 
-—-
+[www.menti.com](http://www.menti.com) 5136 8099
 
 
 ----

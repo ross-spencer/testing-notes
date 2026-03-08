@@ -79,13 +79,13 @@ will prompt container signature processing and detection
 
 ```xml
 <ContainerSignatureMapping schemaVersion="1.0" signatureVersion="38">
-<ContainerSignatures>
+	<ContainerSignatures>
 ...
 </ContainerSignatures>
-<FileFormatMappings>
+	<FileFormatMappings>
 ...
 </FileFormatMappings>
-<TriggerPuids>
+	<TriggerPuids>
 ...
 </TriggerPuids>
 </ContainerSignatureMapping>
@@ -110,9 +110,9 @@ Container Signature File:
 
 ```xml
 <TriggerPuids>
-<TriggerPuid ContainerType="OLE2" Puid="fmt/111"/>
-<TriggerPuid ContainerType="ZIP" Puid="fmt/189"/>
-<TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/>
+	<TriggerPuid ContainerType="OLE2" Puid="fmt/111"/>
+	<TriggerPuid ContainerType="ZIP" Puid="fmt/189"/>
+	<TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/>
 </TriggerPuids>
 ```
 
@@ -151,15 +151,15 @@ additional information (e.g. ‘variant 2’).
 
 ```xml
 <ContainerSignature Id="1000" ContainerType="OLE2">
-<Description>Microsoft Word 6.0/95 OLE2</Description>
-<Files>
-<File>
+	<Description>Microsoft Word 6.0/95 OLE2</Description>
+	<Files>
+		<File>
 ...
 </File>
-<File>
+		<File>
 ...
 </File>
-</Files>
+	</Files>
 </ContainerSignature>
 ```
 
@@ -176,15 +176,15 @@ BinarySignatures to return a match
 
 ```xml
 <Files>
-<File>
-<Path>WordDocument</Path>
-</File>
-<File>
-<Path>CompObj</Path>
-<BinarySignatures>
+	<File>
+		<Path>WordDocument</Path>
+	</File>
+	<File>
+		<Path>CompObj</Path>
+		<BinarySignatures>
 ...
 </BinarySignatures>
-</File>
+	</File>
 </Files>
 ```
 
@@ -218,23 +218,27 @@ the post-processed versions found in the binary signature file
 
 ```xml
 <ContainerSignature Id="1030" ContainerType="ZIP">
-<Description>Microsoft Word OOXML</Description>
-<Files>
-<File>
-**<Path>[Content_Types].xml</Path>**
-<BinarySignatures>
-<InternalSignatureCollection>
-**<InternalSignature ID="302">**
-<ByteSequence Reference="BOFoffset">
-<SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="32768">
-<Sequence>'ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"'</Sequence>
-</SubSequence>
-</ByteSequence>
-</InternalSignature>
-</InternalSignatureCollection>
-</BinarySignatures>
-</File>
-</Files>
+	<Description>Microsoft Word OOXML</Description>
+	<Files>
+		<File>
+**
+			<Path>[Content_Types].xml</Path>**
+
+			<BinarySignatures>
+				<InternalSignatureCollection>
+**
+					<InternalSignature ID="302">**
+
+						<ByteSequence Reference="BOFoffset">
+							<SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="32768">
+								<Sequence>'ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"'</Sequence>
+							</SubSequence>
+						</ByteSequence>
+					</InternalSignature>
+				</InternalSignatureCollection>
+			</BinarySignatures>
+		</File>
+	</Files>
 </ContainerSignature>
 ```
 
@@ -242,26 +246,26 @@ the post-processed versions found in the binary signature file
 
 ```xml
 <ContainerSignature Id="1000" ContainerType="OLE2">
-<Description>Microsoft Word 6.0/95 OLE2</Description>
-<Files>
-<File>
-<Path>WordDocument</Path>
-</File>
-<File>
-<Path>CompObj</Path>
-<BinarySignatures>
-<InternalSignatureCollection>
-<InternalSignature ID="306">
-<ByteSequence Reference="BOFoffset">
-<SubSequence Position="1" SubSeqMinOffset="40" SubSeqMaxOffset="1024">
-<Sequence>10 00 00 00 'Word.Document.' ['6'-'7'] 00</Sequence>
-</SubSequence>
-</ByteSequence>
-</InternalSignature>
-</InternalSignatureCollection>
-</BinarySignatures>
-</File>
-</Files>
+	<Description>Microsoft Word 6.0/95 OLE2</Description>
+	<Files>
+		<File>
+			<Path>WordDocument</Path>
+		</File>
+		<File>
+			<Path>CompObj</Path>
+			<BinarySignatures>
+				<InternalSignatureCollection>
+					<InternalSignature ID="306">
+						<ByteSequence Reference="BOFoffset">
+							<SubSequence Position="1" SubSeqMinOffset="40" SubSeqMaxOffset="1024">
+								<Sequence>10 00 00 00 'Word.Document.' ['6'-'7'] 00</Sequence>
+							</SubSequence>
+						</ByteSequence>
+					</InternalSignature>
+				</InternalSignatureCollection>
+			</BinarySignatures>
+		</File>
+	</Files>
 </ContainerSignature>
 ```
 
@@ -269,12 +273,12 @@ Container Signature Example - fmt/1196
 
 ```xml
 <ContainerSignature ContainerType="ZIP" Id="31020">
-<Description>SIARD 2.1</Description>
-<Files>
-<File>
-<Path>header/siardversion/2.1/</Path>
-</File>
-</Files>
+	<Description>SIARD 2.1</Description>
+	<Files>
+		<File>
+			<Path>header/siardversion/2.1/</Path>
+		</File>
+	</Files>
 </ContainerSignature>
 ```
 
@@ -282,16 +286,16 @@ Container Signature Example - fmt/1196
 
 ```xml
 <InternalSignature ID="28200">
-<ByteSequence Reference="BOFoffset">
-<SubSequence Position="0" SubSeqMinOffset="0" SubSeqMaxOffset="0">
-<Sequence>3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 20 3F 3E</Sequence>
-</SubSequence>
-</ByteSequence>
-<ByteSequence Reference="BOFoffset">
-<SubSequence Position="1" SubSeqMinOffset="23" SubSeqMaxOffset="50">
-<Sequence>3C 73 77 63 20 78 6D 6C 6E 73 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 61 64 6F 62 65 2E 63 6F 6D 2F 66 6C 61 73 68 2F 73 77 63 63 61 74 61 6C 6F 67 2F</Sequence>
-</SubSequence>
-</ByteSequence>
+	<ByteSequence Reference="BOFoffset">
+		<SubSequence Position="0" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+			<Sequence>3C 3F 78 6D 6C 20 76 65 72 73 69 6F 6E 3D 22 31 2E 30 22 20 3F 3E</Sequence>
+		</SubSequence>
+	</ByteSequence>
+	<ByteSequence Reference="BOFoffset">
+		<SubSequence Position="1" SubSeqMinOffset="23" SubSeqMaxOffset="50">
+			<Sequence>3C 73 77 63 20 78 6D 6C 6E 73 3D 22 68 74 74 70 3A 2F 2F 77 77 77 2E 61 64 6F 62 65 2E 63 6F 6D 2F 66 6C 61 73 68 2F 73 77 63 63 61 74 61 6C 6F 67 2F</Sequence>
+		</SubSequence>
+	</ByteSequence>
 </InternalSignature>
 ```
 
@@ -299,25 +303,33 @@ Container Signature Example - fmt/1196
 
 ```xml
 <ContainerSignature Id="30020" ContainerType="OLE2">
-<Description>3DS Max</Description>
-<Files>
-<File>
-<Path>DocumentSummaryInformation</Path>
-<BinarySignatures>
-<InternalSignatureCollection>
-<InternalSignature ID="30020">
-<ByteSequence Reference="BOFoffset">
-<SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
-<Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E </Sequence>
-</SubSequence>
-</ByteSequence>
-</InternalSignature>
-</InternalSignatureCollection>
-</BinarySignatures>
-</File>
-</Files>
+	<Description>3DS Max</Description>
+	<Files>
+		<File>
+			<Path>DocumentSummaryInformation</Path>
+			<BinarySignatures>
+				<InternalSignatureCollection>
+					<InternalSignature ID="30020">
+						<ByteSequence Reference="BOFoffset">
+							<SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+								<Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E </Sequence>
+							</SubSequence>
+						</ByteSequence>
+					</InternalSignature>
+				</InternalSignatureCollection>
+			</BinarySignatures>
+		</File>
+	</Files>
 </ContainerSignature>
 ```
+
+<!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
+     it looks like it's better with an additional newline so adding that
+     here and using this comment as a separator to make it easy to read
+     content.
+-->
+
+<br>
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 

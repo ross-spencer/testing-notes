@@ -6,14 +6,14 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* Why signature development?
+* Why container signatures?
 * What is PRONOM?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* Understand why we care about signatures
+* Understand what container signatures are.
 * Gain an overview of PRONOM and its benefits.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -132,11 +132,11 @@ PRONOM!
 
 By the end of this workshop, you should be able to:
 
-* Investigate a file format and find patterns
-* Express patterns in PRONOM syntax
-* Create a signature file
-* Use your signature file locally
-* Contribute signatures to PRONOM
+* Identify container files.
+* Navigate the contents of container files.
+* Create a container signature.
+* Use the container signature to identify your files.
+* Contribute your signatures to PRONOM
 <br>
 It isn't just the beginning of your PRONOM journey, it's the beginning
 of your digital forensics journey!

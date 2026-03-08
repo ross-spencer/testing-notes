@@ -39,6 +39,14 @@ other variants, and provide data to test other signatures against in the
 future. Making your own samples is helpful in knowing versioning and other
 properties of the file format.
 
+<!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
+     it looks like it's better with an additional newline so adding that
+     here and using this comment as a separator to make it easy to read
+     content.
+-->
+
+<br>
+
 ::::::::::::::::::::::::::::::::::::: keypoints
 
 * TODO...

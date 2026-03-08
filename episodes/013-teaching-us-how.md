@@ -19,6 +19,8 @@ exercises: 8    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+<!-- TODO: check this page is tailored to container signatures -->
+
 ## Teaching us how to do it
 
 Now you've tried one, can you teach one?

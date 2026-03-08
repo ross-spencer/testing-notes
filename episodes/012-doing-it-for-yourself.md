@@ -18,6 +18,8 @@ exercises: 13    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+<!-- TODO: check this page is tailored to container signatures -->
+
 ## Doing it for yourself
 
 Now that you've seen everything there is to know about writing file format

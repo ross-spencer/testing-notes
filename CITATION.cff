@@ -5,7 +5,8 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: Searching for a signature: A file format identification workshop
+title: : >-
+    What's in the Box? Container-based File Format Identification
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -15,19 +16,12 @@ type: dataset
 authors:
   - given-names: David
     family-names: Clipsham
-  - given-names: Tyler
+  - given-names: Tyler:
     family-names: Thorsted
-  - given-names: Sonia
-    family-names: Ranade
+  - given-names: Francesca
+    family-names: Mackenzie
   - given-names: Ross
     family-names: Spencer
 abstract: >-
-  File format identification is generally accepted as a key digital
-  preservation activity as it enables preservation practitioners to
-  understand, manage, and mitigate format-related risks and challenges.
-  This foundational workshop will explore the concepts and practical
-  approaches to file format identification. The workshop assumes no
-  prior knowledge or experience of file format identification, and aims
-  to cater to different learning styles with a selection of interactive
-  activities.
+  TODO...
 license: CC-BY-4.0

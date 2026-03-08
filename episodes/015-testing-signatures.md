@@ -16,6 +16,9 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+<!-- TODO: Advanced topic we might not practically cover but you need to
+know about -->
+
 # Testing signatures
 
 We want to identify **false-positives** and **collisions**.
@@ -58,9 +61,17 @@ a dark background. The Skeleton Suite provides the opportunity
 to make this screenshot as it represents all the files
 in the PRONOM corpus.](../images/skeleton-1.png)
 
+
+<!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
+     it looks like it's better with an additional newline so adding that
+     here and using this comment as a separator to make it easy to read
+     content.
+-->
+
+<br>
+
 ::::::::::::::::::::::::::::::::::::: keypoints
 
 * TODO...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-

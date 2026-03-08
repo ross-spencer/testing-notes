@@ -6,7 +6,7 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What are the key take-aways?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -15,6 +15,8 @@ exercises: 0    # exercise time in minutes
 * TODO
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!-- TODO: additional from original workship -->
 
 # Final Topics
 
@@ -73,9 +75,54 @@ links for people using this slide-deck.](../images/linktree.png)
 
 https://linktr.ee/pronom.whats.in.the.box
 
+
+
+<!-- TODO: incorporate anything from PRONOM workshop -->
+
+
+* Next time you have an unidentified file format:
+  1. open it up in a hex editor, and,
+  2. take a look.
+* Write a new signature and submit it to PRONOM.
+* Share your knowledge with colleagues and support the next generation
+of file format researchers!!!
+* You can even use this template and build on it to tailor yours
+and your colleagues' experiences.
+
+:::: testimonial
+
+## Survey
+
+Help us to improve this content and future tutorials and workshops.
+
+<!-- NB. the link is already updated for this version of the workshop -->
+
+* [Post-participation Survey](https://forms.gle/ADfZptsM5g76azf46).
+
+::::
+
+:::: discussion
+
+### Questions
+
+1. What questions do you have?
+1. What formats might you go away and work on?
+
+::::
+
+<!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
+     it looks like it's better with an additional newline so adding that
+     here and using this comment as a separator to make it easy to read
+     content.
+-->
+
+<br>
+
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* It can be challenging, but take your time, explore, and enjoy!
+* Every signature helps!
+* There’s help out there.
+* Keep in touch!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
-
