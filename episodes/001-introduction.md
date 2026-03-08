@@ -13,8 +13,8 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* Understand what container signatures are.
-* Gain an overview of PRONOM and its benefits.
+* Understand what container signatures are
+* Gain an overview of PRONOM and its benefits
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

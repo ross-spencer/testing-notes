@@ -34,6 +34,7 @@ this topic in the near future\!
 
 ## Identification based on specification example:
 
+<!-- TODO: format to build...
 | TZX Header - information recreated from original source: https://web.archive.org/web/20191028200053/https://worldofspectrum.org/TZXformat.html |  |  |  |
 | :---: | :---: | :---: | :---: |
 | **length: 10 bytes** |  |  |  |
@@ -42,6 +43,7 @@ this topic in the near future\!
 | 0x07 | 0x1A | BYTE | End of text file marker |
 | 0x08 | 1 | BYTE | TZX major revision number |
 | 0x09 | 20 | BYTE | TZX minor revision number |
+-->
 
 Signature: **5A5854617065211A01**
 

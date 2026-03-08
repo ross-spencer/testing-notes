@@ -70,28 +70,22 @@ contact: 'team@carpentries.org' # FIXME
 # Order of episodes in your lesson
 episodes:
 - 001-introduction.md
-- 002-hexadecimal.md
-- 003-using-a-hex-editor.md
-- 004-looking-for-patterns.md
-- 005-pronom-syntax.md
-- 006-reversing-pronom.syntax.md
-- 007-creating-signature-files.md
-- 008-plugging-it-in.md
-- 009-doing-it-for-yourself.md
-- 010-teaching-us-how.md
-- 011-advanced.md
-- 012-final-thoughts.md
-- 051-ff-structures.md
-- 052-container-formats.md
-- 053-ms-word.md
-- 054-binary-signatures-recap.md
-- 055-binary-identification-pronom.md
-- 056-xml-primer.md
-- 057-container-identfication.md
-- 058-creating-a-container-xml.md
-- 059-finding-sample-formats.md
-- 060-testing-signatures.md
-- 061-wrapping-up.md
+- 002-bridging-the-workshops.md
+- 003-ff-structures.md
+- 004-container-formats.md
+- 005-ms-word.md
+- 006-binary-signatures-recap.md
+- 007-binary-identification-pronom.md
+- 008-xml-primer.md
+- 009-container-identfication.md
+- 010-creating-a-container-xml.md
+- 011-finding-sample-formats.md
+- 012-plugging-it-in.md
+- 013-doing-it-for-yourself.md
+- 014-teaching-us-how.md
+- 015-questions-and-answers.md
+- 016-testing-signatures.md
+- 017-wrapping-up.md
 
 # Information for Learners. The pages here will land in the introductory
 # sections.

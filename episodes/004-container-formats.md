@@ -21,9 +21,11 @@ exercises: 0    # exercise time in minutes
 Consists of multiple items/subfiles, contained within a single
 containing file structure.
 
+<!--TODO FIX TO RENDER...
 | *What containers are (DROID @ present)* | *What Containers are not* |
 | :---- | :---- |
 | ZIP & OLE-based contained formats examples include Microsoft Word 97-2003 .doc (OLE-based), Microsoft Word 2007 onwards .docx (Zip-based), ePub (Zip-based).  | Not *currently* supported by DROID include Info-Tech Storage Format (ITSF), installer files (e.g. .msi), GZIP (often used to compress otherwise inefficient formats, such as the XML-based Gnumeric file format) |
+-->
 
 > Within A/V, formats such as MP4 and MXF are also referred to as container
 formats, and they may contain distinct audio and video streams, subtitles
