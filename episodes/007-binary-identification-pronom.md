@@ -94,7 +94,7 @@ less than b)
 |  | Maximum Offset | 0 |
 |  | Value | 504B05060000 |
 
-![](../images/zip-example-1.png)
+![](./fig/zip-example-1.png){alt="TODO"}
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that

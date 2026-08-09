@@ -61,17 +61,15 @@ direction of where we can find them?
 
 Get started wit the PRONOM starter pack!
 
-![Screenshot from PRONOM Starter Pack](../images/starter-pack-1.png)
+![Screenshot from PRONOM Starter Pack](./fig/starter-pack-1.png){alt="TODO"}
 
-![Screenshot from PRONOM Starter Pack](../images/starter-pack-2.png)
+![Screenshot from PRONOM Starter Pack](./fig/starter-pack-2.png){alt="TODO"}
 
-![Screenshot from PRONOM Starter Pack](../images/starter-pack-3.png)
+![Screenshot from PRONOM Starter Pack](./fig/starter-pack-3.png){alt="TODO"}
 
 ## Useful links
 
-![QR code linking out to https://linktr.ee/pronom.whats.in.the.box that
-provides access to all the links in this presentation and more useful
-links for people using this slide-deck.](../images/linktree.png)
+![QR code linking out to https://linktr.ee/pronom.whats.in.the.box that provides access to all the links in this presentation and more useful links for people using this slide-deck.](./fig/linktree.png){alt="TODO"}
 
 https://linktr.ee/pronom.whats.in.the.box
 

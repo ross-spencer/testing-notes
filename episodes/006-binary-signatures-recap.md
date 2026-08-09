@@ -47,10 +47,7 @@ this topic in the near future\!
 
 Signature: **5A5854617065211A01**
 
-![A screenshot of the file 'Dynamite Dan 2.tzx' as viewed in a Hex
-Editor. The image highlights the first 10 bytes of the file, which
-correspond with the data described by the specification in the table
-also seen on this slide.](../images/zx-tape-1.png)
+![A screenshot of the file 'Dynamite Dan 2.tzx' as viewed in a Hex Editor. The image highlights the first 10 bytes of the file, which correspond with the data described by the specification in the table also seen on this slide.](./fig/zx-tape-1.png){alt="TODO"}
 
 ## The text file and other formats
 
@@ -58,12 +55,9 @@ also seen on this slide.](../images/zx-tape-1.png)
 * For example a .txt file consists of whatever you choose to type in ASCII.
 * Other examples of this may include some coding languages or files made up of strings of data.
 
-![Screenshot of a text file that says "A lovely
-file format"](../images/text-file-1.png)
+![Screenshot of a text file that says "A lovely file format"](./fig/text-file-1.png){alt="TODO"}
 
-![Screenshot the same text file in a hex editor showing its
-hexadecimal encoding. The bytes are:
-"41 20 6C 6F 76 64 6C 79 20 66 69 6C 65 20 66 6F 72 6D 61 74"](../images/text-file-2.png)
+![Screenshot the same text file in a hex editor showing itshexadecimal encoding. The bytes are:"41 20 6C 6F 76 64 6C 79 20 66 69 6C 65 20 66 6F 72 6D 61 74"](./fig/text-file-2.png){alt="TODO"}
 
 ## Task: Hex Editors
 

@@ -21,7 +21,7 @@ carpentry_description: 'An introduction lesson to PRONOM and file format identif
 organization_name: "Preservica, BYU, TNA, FFDev.info"
 
 # Overall title for pages.
-title: 'Searching for a signature: A file format identification workshop' # FIXME
+title: 'What’s in the box: an exploration of container-based file format identification'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: ~ # FIXME

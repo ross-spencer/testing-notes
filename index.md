@@ -1,9 +1,9 @@
 ---
-site: 'Searching for a signature: A FFID workshop'
+site: 'What’s in the box: an exploration of container-based file format identification'
 title: 'Welcome!'
 ---
 
-<img src="https://github.com/ffdev-info/searching-for-a-signature/blob/main/images/qr.png?raw=true"
+<img src="TODO"
      alt="image of a QR code that can be used to access this resource"
      class="figure mx-auto d-block dark-filter"
      width="150" height="150" style="float: right; margin: auto;"
@@ -13,11 +13,10 @@ title: 'Welcome!'
 
 ![][image4]![][image5]![][image6]**AN IPRES 2024 WORKSHOP** by
 
-David Clipsham \- Preservica
-Francesca Mackenzie \- The National Archives (UK)
-Ross Spencer \- Independent researcher/developer.
-Tyler Thorsted \- Brigham Young University
-
+* David Clipsham \- Preservica
+* Francesca Mackenzie \- The National Archives (UK)
+* Tyler Thorsted \- Brigham Young University
+* Ross Spencer \- Independent researcher/developer.
 
 # What will we be doing?
 
@@ -59,8 +58,8 @@ Mentimeter
 
 ----
 
-Kia ora, and welcome to Searching for a Signature: A File Format
-Identification Workshop. This workshop loosely follows the concept
+KWelcome to What’s in the box: an exploration of container-based file format
+identification. This workshop loosely follows the concept
 of **See one**, **Do one**, **Teach one**. Depending on how much time
 you have for your workshop the balance between teaching and student
 engagement may vary. We recommend around 2 hours for teaching
@@ -134,7 +133,8 @@ You can keep these tabs open as you work through each episode.
 
 ## Open source learning
 
-The Searching for a Signature resource is open source and you are welcome
+The What’s in the box: an exploration of container-based file format
+identification resource is open source and you are welcome
 to contribute changes and suggestions based on what has worked for you,
 or what might work better. If you have feedback we are happy to hear it,
 and if you have used this resource to teach a class, let us know, and

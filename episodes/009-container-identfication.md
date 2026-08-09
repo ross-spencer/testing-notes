@@ -62,7 +62,7 @@ as binary signatures and can only be seen via the downloaded xml files.
 You can therefore see different stylistic decisions that may have been made
 within the xml.
 
-![](../images/pronom-container-1.png)
+![](./fig/pronom-container-1.png){alt="TODO"}
 
 ## Container Signature File Structure
 

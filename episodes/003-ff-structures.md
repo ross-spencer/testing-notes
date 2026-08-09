@@ -43,20 +43,11 @@ a **magic number** that makes file format identification easier
 *  Examples include: Microsoft Word (.doc) prior to Office ‘95,
 Photoshop .psd, GIF, JPEG
 
-![An image of two horses](../images/structure-horses-1.jpg)
+![An image of two horses](./fig/structure-horses-1.jpg){alt=".jpg image of two horses"}
 
-![A .jpg image of two horses displayed in a
-hex editor](../images/structure-horses-2.png)
+![A .jpg image of two horses displayed in a hex editor](./fig/structure-horses-2.png){alt="Same .jpg image displayed in a hex editor"}
 
-![A screenshot from PRONOM showing the internal signature of a .jpg file
-that matches the signature in
-the hex editor](../images/structure-jpeg-pronom-1.png)
-
-.jpg image of two horses
-
-Same .jpg image displayed in a hex editor
-
-File format magic bytes that identify this file format entry in PRONOM
+![A screenshot from PRONOM showing the internal signature of a .jpg file that matches the signature in the hex editor](./fig/structure-jpeg-pronom-1.png){alt="File format magic bytes that identify this file format entry in PRONOM"}
 
 ## Multi-part Assets {#multi-part-assets}
 
@@ -68,10 +59,10 @@ multiple folders
 *  Could be distributed across web resources
   * Examples include a web page with separate HTML, JS, CSS elements.
 
-![A website displayed in browser](../images/multipart-website-1.png)
+![A website displayed in browser](./fig/multipart-website-1.png){alt="TODO"}
 
 ![A GitHub account showing the files that make up the
-website next to it](../images/multipart-website-2.png)
+website next to it](./fig/multipart-website-2.png){alt="TODO"}
 
 Is a group of files such as jpeg, css, JavaScript, html and more
 

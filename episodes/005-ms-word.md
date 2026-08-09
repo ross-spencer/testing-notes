@@ -32,21 +32,11 @@ Explorer after changing the file extension to .zip
 
 ## The Microsoft Word DOCX Format
 
-![A screenshot of the 7zip application demonstrating the internal
-structure of a Microsoft Word DOCX document. This image shows the
-media directory, demonstrating how images and other embedded
-multimedia elements are stored within
-the container](../images/docx-structure-1.png)
+![A screenshot of the 7zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the media directory, demonstrating how images and other embedded multimedia elements are stored within the container](./fig/docx-structure-1.png){alt="TODO"}
 
-![A screenshot of the 7zip application demonstrating the internal
-structure of a Microsoft Word DOCX document. This image shows the root
-of the zip container, which has the \[Content\_Types\].xml used for
-identification purposes](../images/docx-structure-2.png)
+![A screenshot of the 7zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the root of the zip container, which has the \[Content\_Types\].xml used for identification purposes](./fig/docx-structure-2.png){alt="TODO"}
 
-![A screenshot showing an extract of the document.xml file stored
-within a Microsoft Word DOCX document. This image demonstrates how
-textual content of a DOCX document is stored
-and formatted](../images/docx-structure-3.png)
+![A screenshot showing an extract of the document.xml file stored within a Microsoft Word DOCX document. This image demonstrates how textual content of a DOCX document is stored and formatted](./fig/docx-structure-3.png){alt="TODO"}
 
 ## Task: Exploring a Container Format
 

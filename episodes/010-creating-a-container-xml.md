@@ -24,7 +24,7 @@ exercises: 0    # exercise time in minutes
 
 FFDev.info [https://ffdev.info/](https://ffdev.info/) provides a form for ease of creation of standard and container signature files.
 
-**![Screenshot of the signature development utility.](../images/ffdev-info-1.png)
+**![Screenshot of the signature development utility.](./fig/ffdev-info-1.png){alt="TODO"}
 
 * To use new signatures they will need to be added to the right folders in the droid config:
 
@@ -45,9 +45,7 @@ NB. see the try-it section of ffdev.info...
 
 20 mins
 
-![Screenshot of the droid6 folder showing locations for the
-container signatures and regular
-signature files.](../images/droid6-folder-1.png)
+![Screenshot of the droid6 folder showing locations for the container signatures and regular signature files.](./fig/droid6-folder-1.png){alt="TODO"}
 
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically

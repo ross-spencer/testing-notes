@@ -53,22 +53,18 @@ ZIP:
 
 * [http://fileformats.archiveteam.org/wiki/Category:ZIP\_based\_file\_formats](http://fileformats.archiveteam.org/wiki/Category:ZIP_based_file_formats)
 
-![A screenshot from a wiki of a list of files that use
-ZIP - 112 pages are listed](../images/container-zip-1.png)
+![A screenshot from a wiki of a list of files that use ZIP - 112 pages are listed](./fig/container-zip-1.png){alt="TODO"}
 
 **ZIP**: 112 Pages
 
-![A screenshot from a wiki of a list of files that use
-OLE2 - 91 pages are listed](../images/container-ole2-1.png)
+![A screenshot from a wiki of a list of files that use OLE2 - 91 pages are listed](./fig/container-ole2-1.png){alt="TODO"}
 
 **OLE2**: 91 Pages
 
 Like Matryoshka Dolls, but the Dolls are directory paths, filenames and
 file formats…
 
-![Matryoshka dolls displayed with the purpose of illustrating how container
-signatures can be seen as files within files
-within files.](../images/mtryoska-formats-1.png)
+![Matryoshka dolls displayed with the purpose of illustrating how container signatures can be seen as files within files within files.](./fig/mtryoska-formats-1.png){alt="TODO"}
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that
