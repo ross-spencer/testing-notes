@@ -3,15 +3,24 @@ site: 'What’s in the box: an exploration of container-based file format identi
 title: 'Welcome!'
 ---
 
-<img src="TODO"
+<!-- TODO: Update QR code -->
+<!-- TODO: Update QR code -->
+<!-- TODO: Update QR code -->
+<img src="https://github.com/ffdev-info/searching-for-a-signature/blob/main/images/qr.png?raw=true"
      alt="image of a QR code that can be used to access this resource"
      class="figure mx-auto d-block dark-filter"
      width="150" height="150" style="float: right; margin: auto;"
 />
 
-# What’s in the Box? Container-based File Format Identification
+Welcome to What's in the box? A container file format identification workshop. This workshop loosely follows the concept of **See one, Do one, Teach one**. Depending on how much time you have for your workshop the balance between teaching and student engagement may vary. We recommend around **TODO** hours for teaching (including some engagement and interaction) and an additional 45-60 minutes for more interactive workshop activities and sharing.
 
-![][image4]![][image5]![][image6]**AN IPRES 2024 WORKSHOP** by
+<!-- TODO: WORK OUT TIMING -->
+<!-- TODO: WORK OUT TIMING -->
+<!-- TODO: WORK OUT TIMING -->
+
+![](https://github.com/ross-spencer/testing-notes/blob/dev/containers/episodes/fig/1000020100000800000004B33B9ECC53F30FA826.png?raw=true)
+
+**AN IPRES 2024 WORKSHOP** by
 
 * David Clipsham \- Preservica
 * Francesca Mackenzie \- The National Archives (UK)
@@ -78,16 +87,6 @@ a self-taught module and reference material.
 ::::
 
 <!--markdownlint-disable-->
-
-## A few brief words
-
-:::: callout
-
-## A quick hello
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzykaVoclMY?si=pKOgI0foITWVQcxW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-::::
 
 ## Preparation
 
