@@ -59,7 +59,7 @@ direction of where we can find them?
 
 ## PRONOM starter pack
 
-Get started wit the PRONOM starter pack!
+Get started with the PRONOM starter pack!
 
 ![Screenshot from PRONOM Starter Pack](./fig/starter-pack-1.png){alt="TODO"}
 

@@ -38,15 +38,19 @@ Explorer after changing the file extension to .zip
 
 ![A screenshot showing an extract of the document.xml file stored within a Microsoft Word DOCX document. This image demonstrates how textual content of a DOCX document is stored and formatted](./fig/docx-structure-3.png){alt="TODO"}
 
-## Task: Exploring a Container Format
+:::: challenge
+
+## Exploring a Container Format
 
 Explore a Word, Excel, or PowerPoint document and discuss what you see
 and any interesting findings with your peers.
 
-> The container can be accessed by using a tool such as 7-zip to unpack
+:::::: hint
+The container can be accessed by using a tool such as 7-zip to unpack
 the contents, or by changing the file extension to .zip,*
+::::::
 
-[www.menti.com](http://www.menti.com) 5136 8099
+::::
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that

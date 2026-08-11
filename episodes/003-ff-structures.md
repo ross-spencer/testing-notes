@@ -68,12 +68,14 @@ Is a group of files such as jpeg, css, JavaScript, html and more
 
 A website displayed in a browser
 
-## Task: Multi-part assets
+:::: challenge
+
+## Multi-part assets
 
 Can you think of other multi-part assets? Are there any that you are
 working with in your organization?
 
-[www.menti.com](http://www.menti.com) 5136 8099
+::::
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that

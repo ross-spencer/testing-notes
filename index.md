@@ -29,25 +29,23 @@ Welcome to What's in the box? A container file format identification workshop. T
 
 # What will we be doing?
 
-* Introduction (10 Minutes)
-* File Format Structures (20 Minutes)
-* The Microsoft Word DOCX Format (10 Minutes)
-* Binary Signature File Format Identification Recap (10 Minutes)
-* How DROID Identifies Container-based File Formats (20 Minutes)
-* Creating and Testing Container Signatures (20 Minutes)
-* Finding Format Examples (10 Minutes)
-* Q\&A (10 Minutes)
-* Final Topics (10 Minutes)
+* Introduction
+* Distinguishing signature types
+* File format structures
+* Container file format structures
+* How DROID identifies container files
+* Creating and testing container signatures
+* Finding file format examples
+* Q&A
+* Final Topics
 
-## What tools will we be using? {#what-tools-will-we-be-using?}
-
-* Menti- an interactive audience participation software (you may want to use a phone or laptop to login)
+## What tools will we be using?
 
 * Hex Editor (this can be in a browser if you don’t have one pre-installed)
 * 7-Zip / Built in zip tools
 * You will also be creating files using your office suite
 
-## Form groups {#form-groups}
+## Form groups
 
 * For this workshop there are a number of practical exercises
 * You may want to work together on these (optional)
@@ -55,27 +53,6 @@ Welcome to What's in the box? A container file format identification workshop. T
   * Close by
   * One of whom has a laptop
   * Preferably who you haven’t met before
-
-—-
-
-Mentimeter
-
-![QR code linking to a website (the link is displayed next to it in text)][image7]
-
-[www.menti.com](http://www.menti.com) 5136 8099
-
-
-----
-
-KWelcome to What’s in the box: an exploration of container-based file format
-identification. This workshop loosely follows the concept
-of **See one**, **Do one**, **Teach one**. Depending on how much time
-you have for your workshop the balance between teaching and student
-engagement may vary. We recommend around 2 hours for teaching
-(including some engagement and interaction) and an additional 45-60 minutes for
-more interactive workshop activities and sharing.
-
-<br><br>
 
 :::: callout
 
@@ -111,7 +88,7 @@ Please do not be afraid to ask questions!
 
 ### Icebreaker
 
-At the end of this introduction you should introduce an icebreaker
+At the end of this introduction you might introduce an icebreaker
 for the class. Some ideas:
 
 - what is your favorite file format?
@@ -132,8 +109,8 @@ You can keep these tabs open as you work through each episode.
 
 ## Open source learning
 
-The What’s in the box: an exploration of container-based file format
-identification resource is open source and you are welcome
+The _What’s in the Box: An exploration of container-based file format
+identification_ resource is open source and you are welcome
 to contribute changes and suggestions based on what has worked for you,
 or what might work better. If you have feedback we are happy to hear it,
 and if you have used this resource to teach a class, let us know, and
@@ -152,6 +129,5 @@ exploration of container-based file format identification_
 - All past and present PRONOM colleagues who work tirelessly on a never-ending
 shopping list of file formats and continue to dp their utmost to support
 the resource for the community.
-- Special thanks to Ross Spencer for putting together this resource.
 
 ::::

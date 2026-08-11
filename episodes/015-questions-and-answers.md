@@ -1,6 +1,6 @@
 ---
 title: "Q&A"
-teaching: 0    # teaching time in minutes
+teaching: 15    # teaching time in minutes
 exercises: 0    # exercise time in minutes
 ---
 
@@ -14,14 +14,14 @@ exercises: 0    # exercise time in minutes
 
 * Look at questions that came up during the show and tell.
 * Uncover any new questions.
+* Know how to potentially find answers in the future.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## TODO...
+### Questions
 
-* NB. 10 mins.
-* Need to transcribe the previoous menti here.
-* Menti code: 5136 8099
+1. What questions do you have?
+1. What formats might you go away and work on?
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that
@@ -33,6 +33,12 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* Container signatures are not too disimilar from standard file format
+signatures.
+* They can provide more accurate identification of certain file types.
+* Like standard signatures they might seem scary at first, but you can do it!
+* Look up PRONOM's resources and regular meetups.
+* There’s help out there.
+* And keep in touch!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

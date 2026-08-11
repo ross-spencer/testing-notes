@@ -59,17 +59,21 @@ Signature: **5A5854617065211A01**
 
 ![Screenshot the same text file in a hex editor showing itshexadecimal encoding. The bytes are:"41 20 6C 6F 76 64 6C 79 20 66 69 6C 65 20 66 6F 72 6D 61 74"](./fig/text-file-2.png){alt="TODO"}
 
+:::: challenge
 ## Task: Hex Editors
 
-Look at the internal bytecode of any file. Do you notice any consistencies in the file? Any patterns in the head, body, and tail?
+Look at the internal bytecode of any file. Do you notice any consistencies
+in the file? Any patterns in the head, body, and tail?
 
-Use hex editor you have installed, or one online one, such as:
-
-[https://hexed.it/](https://hexed.it/)
-
-***\> Always be wary of uploading sensitive files or data to random web pages\!***
-
-[www.menti.com](http://www.menti.com) 5136 8099
+Use hex editor you have installed, or [hexed.it](https://hexed.it/) as
+an online solution.
+:::::: caution
+Always be careful when uploading files to pages on the web. Hexed.it has been
+selected as a client hexadecimal browser meaning that all processing is done
+by the client and nothing is sent to the server. You can confirm its status
+by checking the tool's user manual under **"? Help"** on the hexed.it website.
+::::::
+::::
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that
