@@ -6,18 +6,6 @@ title: Additional resources
 from the original workshop.
 -->
 
-## PRONOM Drop-in
-
-The PRONOM team also hosts regular open drop-in sessions:
-
-* Every two weeks on Thursday at 4:00pm (UK) / 11:00am (ET)
-*  The last Wednesday of every month at 7:00am (UK) / 4:00pm (AET)
-
-Further information on dates and joining instructions can be found on the
-[PRONOM resources web page][pronom-1]
-
-[pronom-1]: https://github.com/digital-preservation/PRONOM_Research/blob/88f6149b01f1e8efd73caf6a6a3508eccbcc78ac/Resources/drop-in.md
-
 ## Guides and resources
 
 ### Guide to container signature development on the OPF blog
@@ -84,5 +72,17 @@ FIDO, or Siegfried deviate from PRONOM standard as you expect it to work.
 
 [skeleton-suite-1]: https://github.com/exponential-decay/skeleton-test-suite-generator
 [builder-1]: https://github.com/richardlehane/builder/releases
+
+## PRONOM Drop-in
+
+The PRONOM team also hosts regular open drop-in sessions:
+
+* Every two weeks on Thursday at 4:00pm (UK) / 11:00am (ET)
+*  The last Wednesday of every month at 7:00am (UK) / 4:00pm (AET)
+
+Further information on dates and joining instructions can be found on the
+[PRONOM resources web page][pronom-1]
+
+[pronom-1]: https://github.com/digital-preservation/PRONOM_Research/blob/88f6149b01f1e8efd73caf6a6a3508eccbcc78ac/Resources/drop-in.md
 
 <br>

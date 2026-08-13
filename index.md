@@ -20,40 +20,6 @@ Welcome to What's in the box? A container file format identification workshop. T
 
 ![](https://github.com/ross-spencer/testing-notes/blob/dev/containers/episodes/fig/1000020100000800000004B33B9ECC53F30FA826.png?raw=true)
 
-**AN IPRES 2024 WORKSHOP** by
-
-* David Clipsham \- Preservica
-* Francesca Mackenzie \- The National Archives (UK)
-* Tyler Thorsted \- Brigham Young University
-* Ross Spencer \- Independent researcher/developer.
-
-# What will we be doing?
-
-* Introduction
-* Distinguishing signature types
-* File format structures
-* Container file format structures
-* How DROID identifies container files
-* Creating and testing container signatures
-* Finding file format examples
-* Q&A
-* Final Topics
-
-## What tools will we be using?
-
-* Hex Editor (this can be in a browser if you don’t have one pre-installed)
-* 7-Zip / Built in zip tools
-* You will also be creating files using your office suite
-
-## Form groups
-
-* For this workshop there are a number of practical exercises
-* You may want to work together on these (optional)
-* Try and find one or two people to work with:
-  * Close by
-  * One of whom has a laptop
-  * Preferably who you haven’t met before
-
 :::: callout
 
 ## Take it offline!
@@ -62,8 +28,6 @@ This course has been designed as a workshop but it can also be used as
 a self-taught module and reference material.
 
 ::::
-
-<!--markdownlint-disable-->
 
 ## Preparation
 
@@ -81,8 +45,6 @@ reference sections of this site.
 Please do not be afraid to ask questions!
 
 ::::
-
-<!--markdownlint-enable-->
 
 :::: instructor
 

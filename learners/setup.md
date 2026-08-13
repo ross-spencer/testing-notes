@@ -4,14 +4,29 @@ title: Setup
 
 ## Room setup
 
-Before we get started, organize yourself in the room so that you are able
-to split into groups of three or more. This will make the final part of
-the workshop easier.
+If this workshop is being delivered to a group, Before we get started,
+organize yourself in the room so that you are able to split into groups of
+three or more. This will make the final part of the workshop easier.
 
 ## Tools
 
 * [hexed.it](https://hexed.it/)
 * [ffdev.info](https://ffdev.info/) (bundles Roy and Siegfried)
+* [7-Zip]()
+
+:::: callout
+
+## Office producivity suites
+
+We will also be creating files using office productivity suites such as:
+
+* Microsoft Office
+* LibreOffice
+* Google Docs
+
+What office productivity suites do you make use of day-to-day?
+
+::::
 
 ## Workshop files
 
