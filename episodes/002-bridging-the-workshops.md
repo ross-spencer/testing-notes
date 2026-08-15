@@ -1,59 +1,50 @@
 ---
-title: "Bridging signature file types"
+title: "Bridging the two workshops"
 teaching: 5    # teaching time in minutes
 exercises: 0    # exercise time in minutes
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* What is hexadecimal?
-* Why is it important?
-* What are the basics of hexadecimal we need to understand?
+* TODO...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* Learn what hexadecimal is.
-* Learn how to construct a hexadecimal sequence with arbitrary meaning.
+* TODO...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Standard signatures
 
+Brief summary of the standard signature workshop.
 
 ## Container signatures
 
+This workshop will help you to identify container file formats and when
+we will need container signatures.
 
 ## Resources to refer back to from our previous workshop
 
-We will walk you through as much as we can during the course of this
-workshop so that its entirely self-contained and you can follow along
-in a group setting or at home.
+There is an assumption of some knowledge of the previous workshop and its
+contents. That being said, as a self-contained workshop we'll revisit
+important concepts where it benefits the learning process.
 
-That being said, there is an assumption of some knowledge of the previous
-workshop or its contents. Specific episdes from that workshop you
-might want to work through and keep on hand are:
+Speciifc episodes from the previous workshop that you might want to revisit
+are:
 
 <!-- NB. enter anchor links below... -->
 
-* Hexadecimal
-* PRONOM syntax
-* Looking for patterns
-* Priorities
-* Submitting to PRONOM
+* [Introduction to Hexadecimal][serching-1]
+* [Introduction to PRONOM syntax][serching-2]
+* [Looking for patterns in files][serching-3]
+* [File format Priorities][serching-4]
 
-NB. we can repeat creating a sig file....
-
-----
-
-<!-- TODO: Delete... -->
-
-NOTES:
-
-* See one... create + plug it in...
-* Do one... try it for yourself... sample resources and so on...
-* Teach one... describe your outcomes to the group...
+[searching-1]: https://ffdev-info.github.io/searching-for-a-signature/002-hexadecimal.html
+[searching-2]: https://ffdev-info.github.io/searching-for-a-signature/005-pronom-syntax.html
+[searching-3]: https://ffdev-info.github.io/searching-for-a-signature/004-looking-for-patterns.html
+[searching-4]: https://ffdev-info.github.io/searching-for-a-signature/011-advanced.html
 
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that
@@ -65,11 +56,6 @@ NOTES:
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* Hexadecimal is a number system.
-* Hexadecimal makes it easier to understand “binary”.
-* Hexadecimal is mapped to signals and characters that have meaning to
-a computer.
-* Hexadecimal can take on arbitrary meaning through “encodings”.
-* Hexadecimal is the foundation for a PRONOM signature!
+* TODO...
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
