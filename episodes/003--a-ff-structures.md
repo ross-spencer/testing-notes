@@ -6,13 +6,16 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* How are digital files structured?
+* What information is provided by a specification?
+* What do different representations of digital file look like?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Understand the basic structure of a file format
+* Recognize different file format representations
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -49,34 +52,6 @@ Photoshop .psd, GIF, JPEG
 
 ![A screenshot from PRONOM showing the internal signature of a .jpg file that matches the signature in the hex editor](./fig/structure-jpeg-pronom-1.png){alt="File format magic bytes that identify this file format entry in PRONOM"}
 
-## Multi-part Assets {#multi-part-assets}
-
-*  Consists of multiple files
-*  Often co-located, i.e. in a single folder on a file system or across
-multiple folders
-  * Examples include Advanced Video Coding High Definition (AVCHD),
-  Interoperable Master Format (IMF), some iWork versions.
-*  Could be distributed across web resources
-  * Examples include a web page with separate HTML, JS, CSS elements.
-
-![A website displayed in browser](./fig/multipart-website-1.png){alt="TODO"}
-
-![A GitHub account showing the files that make up the
-website next to it](./fig/multipart-website-2.png){alt="TODO"}
-
-Is a group of files such as jpeg, css, JavaScript, html and more
-
-A website displayed in a browser
-
-:::: challenge
-
-## Multi-part assets
-
-Can you think of other multi-part assets? Are there any that you are
-working with in your organization?
-
-::::
-
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that
      here and using this comment as a separator to make it easy to read
@@ -87,6 +62,10 @@ working with in your organization?
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* Specifications are often used to describe file formats
+* Specifications become standards
+* External metadata can be used to identify a file format
+* The internal (binary) structure can be used as well but we need to use
+a hex editor to do this
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

@@ -71,7 +71,8 @@ contact: 'team@carpentries.org' # FIXME
 episodes:
 - 001-introduction.md
 - 002-bridging-the-workshops.md
-- 003-ff-structures.md
+- 003-a-ff-structures.md
+- 003-b-ff-structures.md
 - 004-container-formats.md
 - 005-ms-word.md
 - 006-binary-signatures-recap.md
