@@ -85,9 +85,6 @@ teaching!
 
 ### With thanks to
 
-- Francesca Mackenzie - Digital Archivist at The National Archives UK, who
-was part of the team for iPRES2024's workshop: _What's in the box? an
-exploration of container-based file format identification_
 - All past and present PRONOM colleagues who work tirelessly on a never-ending
 shopping list of file formats and continue to dp their utmost to support
 the resource for the community.
