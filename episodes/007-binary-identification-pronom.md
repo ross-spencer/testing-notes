@@ -6,15 +6,23 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* How we record file format signatures in PRONOM?
+* What does a signature look like?
+* How do we identify a ZIP file?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Understand the basic principles of a PRONOM file format signature?
+* Understand a ZIP file's relationship to PRONOM and container file
+identification?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--TODO: replace with searching for a signature contents?-->
+<!--TODO: replace with searching for a signature contents?-->
+<!--TODO: replace with searching for a signature contents?-->
 
 # Binary Signature File Format Identification
 
@@ -106,8 +114,10 @@ less than b)
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-By the end of this workshop, you should be able to:
-
-* TODO...
+* Records in PRONOM can have more than one signature associated with them due
+to the complexities of identification
+* PRONOM uses a unique regular expression syntax
+* We need to identify ZIP files using standard signature syntax and this
+becomes a _trigger_ for container file identification
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

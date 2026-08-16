@@ -6,19 +6,24 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What does a container signature file look like?
+* What is the relationhip between contain signature XML and PRONOM?
+* What are the important aspects of the container signature structure?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Learn about the fundamental structure of a container signature file
+* Understand the three (?) distinct sections of the signature file
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 NB. the xml below needs to be prettified...
 
 # Exploring container signatures
+
+:::: challenge
 
 ## Task: The Container Signature File
 
@@ -33,6 +38,8 @@ Directly:
 Or via PRONOM > DROID Signature Files > 15 July 2024 (at the bottom of the page):
 
 [https://www.nationalarchives.gov.uk/PRONOM](https://www.nationalarchives.gov.uk/PRONOM)
+
+::::
 
 ## How DROID Identifies Container-based File Formats
 
@@ -333,6 +340,12 @@ Container Signature Example - fmt/1196
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* Container signature XML is currently separate from the PRONOM database
+* Container signatures are separated into three structural components
+* Triggers define a mapping between container type and container signature
+* A container signature is a combination of metadata, file path, and
+binary signature pattern
+* Binary signatures are optional and container signatures can be created even
+if we only have a consistent file path to work on
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

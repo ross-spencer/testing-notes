@@ -6,13 +6,17 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What characteristics does Microsoft Word OOXML have?
+* How does it differ from previous Word formats?
+* How do we dissect the format and think about identifying it?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Introduce Microsoft Word OOXML
+* Investigate its structure
+* Begin to look into Microsoft style container formats for yourself
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -34,7 +38,7 @@ Explorer after changing the file extension to .zip
 
 ![A screenshot of the 7zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the media directory, demonstrating how images and other embedded multimedia elements are stored within the container](./fig/docx-structure-1.png){alt="TODO"}
 
-![A screenshot of the 7zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the root of the zip container, which has the \[Content\_Types\].xml used for identification purposes](./fig/docx-structure-2.png){alt="TODO"}
+![A screenshot of the 7-zip application demonstrating the internal structure of a Microsoft Word DOCX document. This image shows the root of the zip container, which has the \[Content\_Types\].xml used for identification purposes](./fig/docx-structure-2.png){alt="TODO"}
 
 ![A screenshot showing an extract of the document.xml file stored within a Microsoft Word DOCX document. This image demonstrates how textual content of a DOCX document is stored and formatted](./fig/docx-structure-3.png){alt="TODO"}
 
@@ -62,8 +66,8 @@ the contents, or by changing the file extension to .zip,*
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-By the end of this workshop, you should be able to:
-
-* TODO...
+* Dissect a Microsoft Word OOXML file
+* Understand the purrpose of some of its contents
+* Investigate other ZIP-based containers
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

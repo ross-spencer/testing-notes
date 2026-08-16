@@ -6,17 +6,21 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What are container file formats?
+* How do we identify candidates for container based identification?
+* What are OLE2 and ZIP?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Understand what container formats are
+* Understand their unique properties for more accurate identification
+* Understand how to identify a container format
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Container-based Formats
+## Container-based Formats
 
 Consists of multiple items/subfiles, contained within a single
 containing file structure.
@@ -35,8 +39,6 @@ binary identification (**MediaInfo is your best friend\!**)*
 > Might have these two links up for folks to get an idea of how many Container based formats are out there.
 http://fileformats.archiveteam.org/wiki/Category:Microsoft_Compound_File
 http://fileformats.archiveteam.org/wiki/Category:ZIP_based_file_formats
-
-
 
 ## Container-based Formats
 
@@ -76,6 +78,11 @@ file formats…
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* Container format arer build on other file formats
+* OLE2 and ZIP are the primary foundations of container formats although
+other containers exist such as GZip
+* Container formats consist of many files/subfiles in a singe package
+* Container formats can provide more accurate identification than standard
+signature identification
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

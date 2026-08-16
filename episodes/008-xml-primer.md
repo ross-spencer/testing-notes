@@ -6,13 +6,17 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What is Extensible Markup Language (XML)?
+* How is XML used by PRONOM?
+* How do container signatures utilize XML?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Gain a basic understanding of XML
+* Understand the structural components of XML
+* Recognize that container sygnatures are structured using XML
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -50,6 +54,9 @@ exercises: 0    # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* XML has a basic structure that is required to be well-formed
+* XML begins with an XML declaration
+* XML elements bookend other information recorded in the format
+* Container signatures are structured using XML's hierarchical structure
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

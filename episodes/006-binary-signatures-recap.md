@@ -6,13 +6,17 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What are binary signatures?
+* How do we write a binary signature?
+* What is PRONOM regular expression syntax?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Provide a refresher on standard PRONOM signature identification
+* Look at the type of magic number we often work with when looking at
+non-container file formats
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -85,8 +89,8 @@ by checking the tool's user manual under **"? Help"** on the hexed.it website.
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-By the end of this workshop, you should be able to:
-
-* TODO...
+* Binary signatures use PRONOM regular expression syntax
+* Binary signatures query the linear bytestream of the digital file
+* We use a hex editor to query digital objects
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
