@@ -1,5 +1,5 @@
 ---
-title: "File format structures"
+title: "Multi-part Assets"
 teaching: 0    # teaching time in minutes
 exercises: 0    # exercise time in minutes
 ---
