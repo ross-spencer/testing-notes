@@ -1,23 +1,24 @@
 ---
-site: 'Searching for a signature: A FFID workshop'
+site: 'What’s in the box: an exploration of container-based file format identification'
 title: 'Welcome!'
 ---
 
+<!-- TODO: Update QR code -->
+<!-- TODO: Update QR code -->
+<!-- TODO: Update QR code -->
 <img src="https://github.com/ffdev-info/searching-for-a-signature/blob/main/images/qr.png?raw=true"
      alt="image of a QR code that can be used to access this resource"
      class="figure mx-auto d-block dark-filter"
      width="150" height="150" style="float: right; margin: auto;"
 />
 
-Kia ora, and welcome to Searching for a Signature: A File Format
-Identification Workshop. This workshop loosely follows the concept
-of **See one**, **Do one**, **Teach one**. Depending on how much time
-you have for your workshop the balance between teaching and student
-engagement may vary. We recommend around 2 hours for teaching
-(including some engagement and interaction) and an additional 45-60 minutes for
-more interactive workshop activities and sharing.
+Welcome to What's in the box? A container file format identification workshop. This workshop loosely follows the concept of **See one, Do one, Teach one**. Depending on how much time you have for your workshop the balance between teaching and student engagement may vary. We recommend around **TODO** hours for teaching (including some engagement and interaction) and an additional 45-60 minutes for more interactive workshop activities and sharing.
 
-<br><br>
+<!-- TODO: WORK OUT TIMING -->
+<!-- TODO: WORK OUT TIMING -->
+<!-- TODO: WORK OUT TIMING -->
+
+![](https://github.com/ross-spencer/testing-notes/blob/dev/containers/episodes/fig/1000020100000800000004B33B9ECC53F30FA826.png?raw=true)
 
 :::: callout
 
@@ -25,18 +26,6 @@ more interactive workshop activities and sharing.
 
 This course has been designed as a workshop but it can also be used as
 a self-taught module and reference material.
-
-::::
-
-<!--markdownlint-disable-->
-
-## A few brief words
-
-:::: callout
-
-## A quick hello
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzykaVoclMY?si=pKOgI0foITWVQcxW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ::::
 
@@ -57,13 +46,11 @@ Please do not be afraid to ask questions!
 
 ::::
 
-<!--markdownlint-enable-->
-
 :::: instructor
 
 ### Icebreaker
 
-At the end of this introduction you should introduce an icebreaker
+At the end of this introduction you might introduce an icebreaker
 for the class. Some ideas:
 
 - what is your favorite file format?
@@ -84,7 +71,8 @@ You can keep these tabs open as you work through each episode.
 
 ## Open source learning
 
-The Searching for a Signature resource is open source and you are welcome
+The _What’s in the Box: An exploration of container-based file format
+identification_ resource is open source and you are welcome
 to contribute changes and suggestions based on what has worked for you,
 or what might work better. If you have feedback we are happy to hear it,
 and if you have used this resource to teach a class, let us know, and
@@ -97,12 +85,8 @@ teaching!
 
 ### With thanks to
 
-- Francesca Mackenzie - Digital Archivist at The National Archives UK, who
-was part of the team for iPRES2024's workshop: _What's in the box? an
-exploration of container-based file format identification_
 - All past and present PRONOM colleagues who work tirelessly on a never-ending
 shopping list of file formats and continue to dp their utmost to support
 the resource for the community.
-- Special thanks to Ross Spencer for putting together this resource.
 
 ::::

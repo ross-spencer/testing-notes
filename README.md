@@ -1,4 +1,4 @@
-# Searching for a signature: A FFID workshop
+# What’s in the box: an exploration of container-based file format identification
 
 This is a tutorial that has been prepared for iPRES2025 in Wellington.
 

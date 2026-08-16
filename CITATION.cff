@@ -5,7 +5,8 @@
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: Searching for a signature: A file format identification workshop
+title: : >-
+    What's in the Box? Container-based File Format Identification
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -15,19 +16,42 @@ type: dataset
 authors:
   - given-names: David
     family-names: Clipsham
-  - given-names: Tyler
+  - given-names: Tyler:
     family-names: Thorsted
-  - given-names: Sonia
-    family-names: Ranade
+  - given-names: Francesca
+    family-names: Mackenzie
   - given-names: Ross
     family-names: Spencer
 abstract: >-
   File format identification is generally accepted as a key digital
   preservation activity as it enables preservation practitioners to
   understand, manage, and mitigate format-related risks and challenges.
-  This foundational workshop will explore the concepts and practical
-  approaches to file format identification. The workshop assumes no
-  prior knowledge or experience of file format identification, and aims
-  to cater to different learning styles with a selection of interactive
-  activities.
+  File format identification tools such as DROID and Siegfried use
+  multiple methods to identify file formats, including by extension,
+  by binary signature, and by container signature. Previous iPres
+  workshops (2018, 2022) have tackled binary signature patterns
+  for file format identification. This interactive workshop will
+  build upon these previous workshops and will explore container-based
+  file format identification and container signatures. The workshop will
+  help participants gain practical skills in the analysis of complex
+  digital files. There will be a brief recap on binary signatures for
+  file format identification, making this workshop accessible for
+  beginners and experienced practitioners and allowing attendees to
+  become familiar with the workshop themes. Participants will learn
+  about the various structures of file formats, with a particular
+  emphasis on multi-part formats, and how container signatures are
+  used to identify many of these format types. Tools such as hex
+  editors and file packaging utilities will be demonstrated and used
+  to explore these file formats in more detail. Participants will learn
+  to recognize the indicators of candidate formats for container
+  signature identification, and will gain an understanding of the
+  structure and syntax of container signatures as used by tools such as
+  DROID and Siegfried. The workshop will cover research techniques for
+  harvesting file format samples and format specifications that are
+  used to verify findings. Finally, participants will get hands-on with
+  tools for creating and testing container signatures, and will gain
+  familiarity with the process for submitting their file format research
+  to the PRONOM team. Experienced instructors will be on hand throughout
+  the session to assist with the workshop activities and answer any
+  questions.
 license: CC-BY-4.0

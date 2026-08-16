@@ -4,14 +4,29 @@ title: Setup
 
 ## Room setup
 
-Before we get started, organize yourself in the room so that you are able
-to split into groups of three or more. This will make the final part of
-the workshop easier.
+If this workshop is being delivered to a group, Before we get started,
+organize yourself in the room so that you are able to split into groups of
+three or more. This will make the final part of the workshop easier.
 
 ## Tools
 
 * [hexed.it](https://hexed.it/)
 * [ffdev.info](https://ffdev.info/) (bundles Roy and Siegfried)
+* [7-Zip]()
+
+:::: callout
+
+## Office producivity suites
+
+We will also be creating files using office productivity suites such as:
+
+* Microsoft Office
+* LibreOffice
+* Google Docs
+
+What office productivity suites do you make use of day-to-day?
+
+::::
 
 ## Workshop files
 
@@ -22,16 +37,9 @@ the workshop easier.
 
 Workshop files will be highlighted inline. You can inspect them below as well.
 
-* [Hello World!.txt](./files/Hello%20World!.txt).
-* [Sample QOI file 1](./files/edgecase.qoi).
-* [Sample QOI file 2](./files/kodim10.qoi).
-* [Sample QOI file 3](./files/kodim23.qoi).
-* [Sample QOI file 4](./files/qoi_logo.qoi).
-* [Sample QOI file 5](./files/testcard.qoi).
-* [Sample mock file 1](./files/ffid-exercise-1.file).
-* [Sample mock file 2](./files/ffid-exercise-2.file).
-* [Sample mock file 3](./files/ffid-exercise-3.file).
-* [QOI Specification](./files/qoi-specification.pdf).
+<!-- TODO: Additional Container Files Here -->
+<!-- TODO: Additional Container Files Here -->
+<!-- TODO: Additional Container Files Here -->
 
 ## Pre-reading
 
@@ -55,5 +63,9 @@ after the workshop:
 
 * [User-friendly PRONOM syntax guide](https://github.com/digital-preservation/droid/blob/main/Signature%20syntax.md).
 * [Automatic Format Identification Using PRONOM and DROID](https://www.nationalarchives.gov.uk/aboutapps/fileformat/pdf/automatic_format_identification.pdf) (the original design document).
+
+<!-- TODO: New Container Signature Resource -->
+<!-- TODO: New Container Signature Resource -->
+<!-- TODO: New Container Signature Resource -->
 
 <!--markdownlint-enable-->
