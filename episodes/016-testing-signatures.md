@@ -6,20 +6,25 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* What other methods do we have to test file format signatures?
+* What are skeleton files?
+* Where do we get them from?
+* What testing properties do they have?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Understand what false-positives are
+* Learn the pupose of skeleton files
+* Learn where to access them and how to use them
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 <!-- TODO: Advanced topic we might not practically cover but you need to
 know about -->
 
-# Testing signatures
+## Testing signatures
 
 We want to identify **false-positives** and **collisions**.
 
@@ -68,6 +73,12 @@ Builder: Current Skeletons, Maintained by Richard Lehane
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* False positives happen when a signature matches other records in PRONOM
+* Sometimes a signature needs to be improved or a priority set for it
+* Skeleton files were developed by Ross Spencer
+* Richard Lehane builds these files each new PRONOM release and makes them
+available via Builder
+* They are used in Siegfried and PRONOM workflows to identify DROID regressions
+and newly introduced multiple identifications or false positives
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

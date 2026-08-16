@@ -6,21 +6,23 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* What are the key take-aways?
+* What are some more resources you can access?
+* How can you keep in touch?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Provide additional materials for you to access
+* Let you know how you can keep in touch
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 <!-- TODO: additional from original workship -->
 
-# Final Topics
+## Final Topics
 
-## Contact us
+### Contact us
 
 Reach out in-person by email, or via one of our groups and community resources.
 
@@ -30,7 +32,7 @@ Reach out in-person by email, or via one of our groups and community resources.
 
 And our bi-weekly PRONOM Open Drop-In!
 
-## Resources
+### Resources
 
 * The main PRONOM website can be found here:
 www.nationalarchives.gov.uk/PRONOM.
@@ -57,7 +59,7 @@ best format for...'.
 information about. Can you help by providing some, or point us in the
 direction of where we can find them?
 
-## PRONOM starter pack
+### PRONOM starter pack
 
 Get started with the PRONOM starter pack!
 
@@ -67,16 +69,13 @@ Get started with the PRONOM starter pack!
 
 ![Screenshot from PRONOM Starter Pack](./fig/starter-pack-3.png){alt="TODO"}
 
-## Useful links
+### Useful links
 
 ![QR code linking out to https://linktr.ee/pronom.whats.in.the.box that provides access to all the links in this presentation and more useful links for people using this slide-deck.](./fig/linktree.png){alt="TODO"}
 
 https://linktr.ee/pronom.whats.in.the.box
 
-
-
 <!-- TODO: incorporate anything from PRONOM workshop -->
-
 
 * Next time you have an unidentified file format:
   1. open it up in a hex editor, and,
@@ -89,22 +88,13 @@ and your colleagues' experiences.
 
 :::: testimonial
 
-## Survey
+### Survey
 
 Help us to improve this content and future tutorials and workshops.
 
 <!-- NB. the link is already updated for this version of the workshop -->
 
 * [Post-participation Survey](https://forms.gle/ADfZptsM5g76azf46).
-
-::::
-
-:::: discussion
-
-### Questions
-
-1. What questions do you have?
-1. What formats might you go away and work on?
 
 ::::
 
@@ -120,7 +110,7 @@ Help us to improve this content and future tutorials and workshops.
 
 * It can be challenging, but take your time, explore, and enjoy!
 * Every signature helps!
-* There’s help out there.
+* There’s help out there
 * Keep in touch!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::

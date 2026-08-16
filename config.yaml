@@ -15,7 +15,7 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'An introduction lesson to PRONOM and file format identification'
+carpentry_description: 'An introduction lesson to PRONOM container signatures'
 
 # Organisation.
 organization_name: "Preservica, BYU, TNA, FFDev.info"
@@ -37,7 +37,7 @@ life_cycle: 'pre-alpha' # FIXME
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/ffdev-info/searching-for-a-signature' # FIXME
+source: 'https://github.com/ffdev-info/what-is-in-the-box' # FIXME
 
 # Default branch of your lesson
 branch: 'main'
@@ -81,12 +81,12 @@ episodes:
 - 009-container-identfication.md
 - 010-creating-a-container-xml.md
 - 011-finding-sample-formats.md
-- 012-plugging-it-in.md
-- 013-doing-it-for-yourself.md
-- 014-teaching-us-how.md
-- 015-questions-and-answers.md
+#- 012-plugging-it-in.md
+#- 013-doing-it-for-yourself.md
+#- 014-teaching-us-how.md
 - 016-testing-signatures.md
-- 017-wrapping-up.md
+- 017-questions-and-answers.md
+- 018-wrapping-up.md
 
 # Information for Learners. The pages here will land in the introductory
 # sections.

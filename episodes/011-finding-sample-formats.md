@@ -6,17 +6,20 @@ exercises: 0    # exercise time in minutes
 
 :::::::::::::::::::::::::::::::::::::: questions
 
-* TODO
+* Why do we need file format samples?
+* How do you find file format samples?
+* What existing resources are there for finding file formrat samples?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-* TODO
+* Learn why other file format samples are important
+* Learn about existing resources and think about alternatives
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Finding Format Examples {#finding-format-examples}
+# Finding Format Examples
 
 The more Samples you can find, the more precise the signatures can be.
 
@@ -39,6 +42,21 @@ other variants, and provide data to test other signatures against in the
 future. Making your own samples is helpful in knowing versioning and other
 properties of the file format.
 
+:::: callout
+
+Examples are important for looking for deviations in file format specifications.
+They may also be easier to share with the public and the PRONOM team if your
+own examples are embargoed in any way.
+
+::::
+
+:::: discussion
+
+Where might you look for file formats above and beyond those in this
+lesson?
+
+::::
+
 <!-- NB. Keypoints should appear at the end of the markdown file. Aesthetically
      it looks like it's better with an additional newline so adding that
      here and using this comment as a separator to make it easy to read
@@ -49,6 +67,9 @@ properties of the file format.
 
 ::::::::::::::::::::::::::::::::::::: keypoints
 
-* TODO...
+* There are lots of sources of example files
+* We have guides that may help
+* Share your own thoughts with the community and help us to develop these
+resources
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
